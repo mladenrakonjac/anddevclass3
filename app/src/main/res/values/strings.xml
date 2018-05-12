@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="save_note">Save Note</string>
+    <string name="insert_new_task">Unesite naziv taska</string>
+    <string name="insert_task_desc">Unesite opis taska</string>
+    <string name="add_task">Add Task</string>
+</resources>
